@@ -6,7 +6,7 @@ Yolov8n pretrained model was used for object detection and tracking. After detec
 python object_detector.py
 ```
 
-
+![track](https://github.com/kursatkomurcu/Simple-Object-Detection-Tracking-and-Geolocation/blob/main/track.png)
 
 ## Geolocation Mapper
 
@@ -29,4 +29,6 @@ The output of drone coordinates are [y, x]
 ```bash
 python geolocation_mapper.py
 ```
+
+![track](https://github.com/kursatkomurcu/Simple-Object-Detection-Tracking-and-Geolocation/blob/main/drone_position.png)
 
